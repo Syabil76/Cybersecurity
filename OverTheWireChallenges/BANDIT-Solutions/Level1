@@ -1,0 +1,4 @@
+From level 1, use the 'ls' tool to take a look at files and repositories
+Use the 'cat' tool to read the text file shown
+use SSH tool to connect to OTW web server and use the level 1 password found (on port 2220)
+// ssh bandit1@bandit.labs.overthewire.org -p 2220
